@@ -5,52 +5,52 @@
 
 ![Picture of Eclipse, penthouse 1](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
 
-    - Dubsta 6x6
-	- Kamacho
-	- Buggy raid
-	- Elegy RH8
-	- Patriot Stretch
-	- Elegy RH8
-	- Elegy rétro custom
-	- Elegy rétro custom
-	- n°9 - vide
-	- n°10 - vide
+    1.  Kamacho
+	2.  Buggy raid
+	3.  Elegy RH8
+	4.  Elegy RH8
+	5.  Felon GT (rue)
+	6.  Patriot Stretch
+    7.  Dubsta 6x6
+	8.  Vide
+	9.  Vide
+    10. Vide
 	
 ### Weazel Plaza, n°101
 
-![Picture of Weazel Plaza, n°101](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
+![Picture of Weazel Plaza, n°101](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/weazel-plaza-101.jpg)
 
-	Vigilante
-	Vigilante
-	Vigilante
-    Issi anticipation
-	Minivan custom
-	Vigilante
-	Vigilante
-	Vigilante
-	Emplacement 9 - vide
-	Emplacement 10 - vide
+	1.  Vigilante
+	2.  Vigilante
+	3.  Vigilante
+    4.  Vigilante
+	5.  Vigilante
+    6.  Issi anticipation
+	7.  Issi anticipation
+    8.  Issi anticipation
+	9.  Issi anticipation
+	10. Elegy rétro custom
 	
 ### Del Perro Heights, n°20
 
 ![Picture of Del Perro Heights, n°20](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/del-perro-heights-20.jpg)
 
-	- Sanctus
-	- Cliffhanger
-	- Shotaro
-	Emplacement 4 - vide
-	- n°5 - vide
-	- n°6 - vide
-	- n°7 - vide
-	- n°8 - vide
-	- n°9 - vide
-	- n°10 - vide
+	1.  Sanctus
+	2.  Cliffhanger
+	3.  Shotaro
+	4.  Vide
+	5.  Vide
+	6.  Vide
+	7.  Vide
+	8.  Vide
+	9.  Vide
+	10. Vide
 
 ### Las lagunas Blvd, n°4
 
 ![Picture of Las lagunas Blvd, n°4](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/las-lagunas-blvd-4.jpg)
 
-	- Kuruma (blindée)
+	1. Kuruma (blindée)
 	- Cognoscenti (blindée)
 	- Insurgent
 	- Baller LE LWB (blindée)
@@ -60,16 +60,16 @@
 
 ![Picture of Tinsel Towers, n°29](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-29.jpg)
 
+	1. Elegy RH8
 	- Elegy RH8
 	- Elegy RH8
 	- Elegy RH8
 	- Elegy RH8
-	- Elegy RH8
-	- Minivan custom
-	- Minivan custom
-	- Issi anticipation
-	- Issi anticipation
-	- Elegy rétro custom
+	6. Minivan custom
+	Minivan custom
+    Minivan custom
+    Elegy rétro custom
+	Elegy rétro custom
 
 ### QG de Hawick**
 
@@ -80,7 +80,7 @@
 	- Gargoyle
 	- Nightblade
 	- Bati 801
-	- Blazer street
+	- Blazer street 
 	- Hakuchou drag
 	- Vortex
 	- Manchez
@@ -90,16 +90,16 @@
 
 ![alt text](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-42.jpg)
 
-	- Jester classqiue
-	- Dominator GTX
-	- 9F Cabrio
-	- Ruiner
-	- Futo
+	1. Dominator GTX (sportive - mustang modern)
+    2. Jester classqiue (sportive - supra)
+	- 9F Cabrio (R8)
+	- Ruiner (K2000)
+	- Futo (old school)
 	- Corbillard Romero
-	- Flash GT
-	- Hotring Sabre
-	- n°9 - Vide
-	- Cheburek
+	- Vide
+	- Vide
+	- Vide
+	- Cheburek (old school)
  
 ### Garage de fonction 1
 	- T20
@@ -139,18 +139,20 @@
 	- 190z
 	- Hermes
 	- Tampa drift
-	- Issi classique
-	- n°17 - vide 
-	- n°18 - vide 
+	16. Issi classique
+	17. Vide 
+	18. - vide 
 	- n°19 - vide
 	- n°20 - vide
  
 ### Garage de fonction 3
-	- SC1
-	- Brioso R/1
-	- Autarch
-	- Deluxo
-	- Tropos rallye
+	01. SC1
+	02. Brioso R/1 (mini abarth)
+	03. Autarch
+    04. Hotring Sabre
+    05. Flash GT
+	06. Deluxo
+	07. Tropos rallye
 	- Omnis
 	- GB200
 	- Sentinel classique
@@ -159,7 +161,7 @@
 	- Pariah
 	- Infernus classique
 	- Penetrator
-	- n°14 - vide
+	- n°16 - vide
 	- ...
 	- n°20 - vide
 	 
@@ -167,18 +169,21 @@
 	- APC
 	- Tampa Armée
 	- Pick-up Insurgent custom
-	- Oppressor
-	- Stromberg
-	- Nightshark
+	- Oppressor (moto volante)
+	- Stromberg (voiture sous-marin)
+	- Nightshark (4x4)
 	- Duke O'Death
 	- Véhicule antiémeute
-	- TM-02 Khanjali
+	- TM-02 Khanjali (tank)
 	- Thruster (jetpack)
  
 ### Entrée de service de la boîte de nuit
 	- Elegy RH8
  
  ### Garage, 2e sous-sol
+
+![Picture of Garage, 3e sous-sol](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/garage-3e-sous-sol.jpg)
+
 	- Turismo classique
 	- X80 Proto
 	- Tyrant
@@ -191,39 +196,46 @@
 	- XA-21
  	
 ### Garage, 3e sous-sol
-	- Ruston
-	- Toros
-	- Nero custom
-	- Shlagen GT
-	- 811 décap.
-	- Windsor Drop
-	- n°8 - vide
-	- Comet SR
-	- n°9 - vide
-	- n°10 - vide
+
+![Picture of Garage, 2e sous-sol](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/garage-2e-sous-sol.jpg)
+
+    01. 811 décap. (carrera gt)
+    02. Schlagen GT ()
+	03. Nero custom (bugatti)
+    04. Ruston (barquette)
+    05. Comet SR (911)
+	06. Vide
+    07. Vide
+    08. Toros
+	09. Vide
+	10. Vide
 
 ### Garage, 4e sous-sol
-	-  Elegy RH8
-	-  Super Diamond
-	-  Neon
-	-  Raiden
-	-  Shafter
-	-  Schafter V12 (blindée)
-	-  Schafter LWB
-	-  Schafter LWB (blindée)
-	-  Exemplar
+
+![Picture of Garage, 4e sous-sol](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/garage-4e-sous-sol.jpg)
+
+	01. Windsor Drop
+	02. Super Diamond (rolls royce)
+	03. Neon (porsche electric)
+    04. Revolter (maybach)
+	05. Raiden (tesla)
+	06. Shafter
+	07. Schafter V12 (blindée)
+	08. Schafter LWB
+	09. Schafter LWB (blindée)
+	10. Exemplar (aston rapide)
 
 ### Atelier de l'arène
-	- Sasquatch anticipation
-	- Issi anticipation
-	- Dominator
-	- Slamvan
-	- Brutus apocalypse
-	- Scarab apocalypse
-	- Elegy RH8
-	- Elegy RH8
-	- Elegy RH8
-	- n°10 - vide
+	1.  Sasquatch anticipation (monster truck)
+	2.  Issi anticipation (mini)
+	3.  Dominator (mustang)
+	4.  Slamvan
+	5.  Brutus apocalypse (camionette)
+	6   Scarab apocalypse (tank)
+	7.  Elegy RH8
+	8.  Elegy RH8
+	9.  Elegy RH8
+	10. Vide
 
 ### Atelier de l'arène 1er SS
 	- Elegy RH8
@@ -246,13 +258,16 @@
 	- Elegy RH8
 	- Elegy RH8
 	- Elegy RH8
-	- Elegy RH8
-	- n°10 - vide
+	9. Elegy RH8
+	10. Vide
 
 - Bureau
 - Bunker
 - Complexe
 - QG
+- Terrorbyte
+- Avenger
+- Centre d'opération mobile
 
 ## Trophées restants :
 
