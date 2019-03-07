@@ -1,6 +1,6 @@
-## [GTA](https://github.fabricegeib.com/Games/gta/)
-## Fortnite
-## League of Legends
+## GTA
+[GTA](https://github.fabricegeib.com/Games/gta/)
 
-* [link-extern](https://fabricegeib.com)
-* [link-intern](/docs/gta)
+## Fortnite
+
+## League of Legends
