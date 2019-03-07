@@ -1,15 +1,6 @@
 #Jeux
 
 ##GTA
-###Trophées restants :
-
-- Frimeur, Réussissez toutes les cascades. (11 premiers validés) [lien youtube](https://www.youtube.com/watch?v=YWzBHdXeIq0)
-- Cousu d'or
-- Criminel de carrière
-- Aux 50 coins de la galaxie
-- Affaire classée
-- Haute voltige
-- Numero uno
 
 ###Garages
 - **Eclipse, penthouse 1**
@@ -69,8 +60,8 @@
 	- Issi anticipation
 	- Elegy rétro custom
 
-![alt text](/img/gta/tinsel-towers-29.jpg)
-
+![alt text](https://github.com/fabricegeib/Games/raw/master/img/gta/tinsel-towers-29.jpg)
+  https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-29.jpg    
 ![alt text](https://raw.githubusercontent.com/fabricegeib/projectname/branch/img/tinsel-towers-29.jpg)
 
 - **QG de Hawick**
@@ -252,17 +243,12 @@
 - Complexe
 - QG
 
+###Trophées restants :
 
-## Fortnite
-
-défis semaines :
-
-- 4 radars pédagogiques
-- Blesser bourlingueur
-
-7
-
-- 7 boite munitions
-- détruire pierre
-- Tir tete
-- 5 pommes
+- Frimeur, Réussissez toutes les cascades. (11 premiers validés) [lien youtube](https://www.youtube.com/watch?v=YWzBHdXeIq0)
+- Cousu d'or
+- Criminel de carrière
+- Aux 50 coins de la galaxie
+- Affaire classée
+- Haute voltige
+- Numero uno
