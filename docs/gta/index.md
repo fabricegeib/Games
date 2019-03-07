@@ -20,16 +20,16 @@
 
 ![Picture of Weazel Plaza, n°101](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
 
-	- Vigilante
-	- Vigilante
-	- Vigilante
+	Vigilante
+	Vigilante
+	Vigilante
     Issi anticipation
-	- Minivan custom
-	- Vigilante
-	- Vigilante
-	- Vigilante
-	- n°9 - vide
-	- n°10 - vide
+	Minivan custom
+	Vigilante
+	Vigilante
+	Vigilante
+	Emplacement 9 - vide
+	Emplacement 10 - vide
 	
 ### Del Perro Heights, n°20
 
@@ -38,7 +38,7 @@
 	- Sanctus
 	- Cliffhanger
 	- Shotaro
-	- n°4 - vide
+	Emplacement 4 - vide
 	- n°5 - vide
 	- n°6 - vide
 	- n°7 - vide
@@ -99,7 +99,7 @@
 	- Flash GT
 	- Hotring Sabre
 	- n°9 - Vide
-	- Cheburel
+	- Cheburek
  
 ### Garage de fonction 1
 	- T20
