@@ -1,8 +1,10 @@
 
-### Garages
+## Garages
 
-**Eclipse, penthouse 1**
-    
+### Eclipse, penthouse 1
+
+![Picture of Eclipse, penthouse 1](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
+
     - Dubsta 6x6
 	- Kamacho
 	- Buggy raid
@@ -14,20 +16,25 @@
 	- n°9 - vide
 	- n°10 - vide
 	
-**Weazel Plaza, n°101**
+### Weazel Plaza, n°101
+
+![Picture of Weazel Plaza, n°101](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
 
 	- Vigilante
 	- Vigilante
 	- Vigilante
+    Issi anticipation
 	- Minivan custom
 	- Vigilante
 	- Vigilante
 	- Vigilante
-	- Issi anticipation
 	- n°9 - vide
 	- n°10 - vide
 	
-- **Del Perro Heights, n°20**
+### Del Perro Heights, n°20
+
+![Picture of Del Perro Heights, n°20](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/del-perro-heights-20.jpg)
+
 	- Sanctus
 	- Cliffhanger
 	- Shotaro
@@ -39,7 +46,7 @@
 	- n°9 - vide
 	- n°10 - vide
 
-**Las lagunas Blvd, n°4**
+### Las lagunas Blvd, n°4
 
 ![Picture of Las lagunas Blvd, n°4](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/las-lagunas-blvd-4.jpg)
 
@@ -49,7 +56,7 @@
 	- Baller LE LWB (blindée)
 	- XLS (blindée)
  
-**Tinsel Towers, n°29**
+### Tinsel Towers, n°29
 
 ![Picture of Tinsel Towers, n°29](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-29.jpg)
 
@@ -64,7 +71,7 @@
 	- Issi anticipation
 	- Elegy rétro custom
 
-- **QG de Hawick**
+### QG de Hawick**
 
 ![Picture of Tinsel Towers, n°29](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/qg-de-hawick.jpg)
 
@@ -79,7 +86,10 @@
 	- Manchez
 	- BF400
  
-- **Tinsel Tower, 42**
+### Tinsel Tower, 42
+
+![alt text](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-42.jpg)
+
 	- Jester classqiue
 	- Dominator GTX
 	- 9F Cabrio
@@ -90,10 +100,8 @@
 	- Hotring Sabre
 	- n°9 - Vide
 	- Cheburel
-
-![alt text](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-42.jpg)
  
-- **Garage de fonction 1**
+### Garage de fonction 1
 	- T20
 	- Osiris
 	- GP1
@@ -115,7 +123,7 @@
 	- Itali GTB custom
 	- n°20 - vide
 
-- **Garage de fonction 2**
+### Garage de fonction 2
 	- Moonbeam custom
 	- Tornado custom
 	- Faction custom donnk
@@ -137,7 +145,7 @@
 	- n°19 - vide
 	- n°20 - vide
  
-- **Garage de fonction 3**
+### Garage de fonction 3
 	- SC1
 	- Brioso R/1
 	- Autarch
@@ -155,7 +163,7 @@
 	- ...
 	- n°20 - vide
 	 
-- **Complex de Land Act Reservoir**
+### Complex de Land Act Reservoir
 	- APC
 	- Tampa Armée
 	- Pick-up Insurgent custom
@@ -167,10 +175,10 @@
 	- TM-02 Khanjali
 	- Thruster (jetpack)
  
-- **Entrée de service de la boîte de nuit**
+### Entrée de service de la boîte de nuit
 	- Elegy RH8
  
-- **Garage, 2e sous-sol**
+ ### Garage, 2e sous-sol
 	- Turismo classique
 	- X80 Proto
 	- Tyrant
@@ -182,7 +190,7 @@
 	- Taipan
 	- XA-21
  	
-- **Garage, 3e sous-sol**
+### Garage, 3e sous-sol
 	- Ruston
 	- Toros
 	- Nero custom
@@ -194,7 +202,7 @@
 	- n°9 - vide
 	- n°10 - vide
 
-- **Garage, 4e sous-sol**
+### Garage, 4e sous-sol
 	-  Elegy RH8
 	-  Super Diamond
 	-  Neon
@@ -205,7 +213,7 @@
 	-  Schafter LWB (blindée)
 	-  Exemplar
 
-- **Atelier de l'arène**
+### Atelier de l'arène
 	- Sasquatch anticipation
 	- Issi anticipation
 	- Dominator
@@ -217,7 +225,7 @@
 	- Elegy RH8
 	- n°10 - vide
 
-- **Atelier de l'arène 1er SS**
+### Atelier de l'arène 1er SS
 	- Elegy RH8
 	- Elegy RH8
 	- Elegy RH8
@@ -229,7 +237,7 @@
 	- Elegy RH8
 	- n°10 - vide
 	
-- **Atelier de l'arène 2e SS**
+### Atelier de l'arène 2e SS
 	- Elegy RH8
 	- Elegy RH8
 	- Elegy RH8
@@ -246,7 +254,7 @@
 - Complexe
 - QG
 
-### Trophées restants :
+## Trophées restants :
 
 - Frimeur, Réussissez toutes les cascades. (11 premiers validés) [lien youtube](https://www.youtube.com/watch?v=YWzBHdXeIq0)
 - Cousu d'or
