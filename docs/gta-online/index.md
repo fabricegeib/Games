@@ -1,9 +1,9 @@
 
 ## Garages
 
-### Eclipse, penthouse 1
-
 ![Picture of Eclipse, penthouse 1](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
+
+### Eclipse, penthouse 1
 
     01. Kamacho
 	02. Buggy raid
@@ -16,9 +16,9 @@
 	09. Vide
     10. Vide
 	
-### Weazel Plaza, n°101
-
 ![Picture of Weazel Plaza, n°101](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/weazel-plaza-101.jpg)
+
+### Weazel Plaza, n°101
 
 	01. Vigilante
 	02. Vigilante
@@ -31,9 +31,9 @@
 	09. Issi anticipation
 	10. Elegy rétro custom
 	
-### Del Perro Heights, n°20
-
 ![Picture of Del Perro Heights, n°20](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/del-perro-heights-20.jpg)
+
+### Del Perro Heights, n°20
 
 	01. Sanctus
 	02. Cliffhanger
@@ -46,9 +46,9 @@
 	09. Vide
 	10. Oppressor (moto volante)
 
-### Las lagunas Blvd, n°4
-
 ![Picture of Las lagunas Blvd, n°4](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/las-lagunas-blvd-4.jpg)
+
+### Las lagunas Blvd, n°4
 
 	01. Baller LE LWB (blindée)
 	02. XLS (blindée)
@@ -57,14 +57,14 @@
 	05. Insurgent
 	06. Cognoscenti (blindée)
  
-### Tinsel Towers, n°29
-
 ![Picture of Tinsel Towers, n°29](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/tinsel-towers-29.jpg)
 
-	1. Elegy RH8
-	- Elegy RH8
-	- Elegy RH8
-	- Elegy RH8
+### Tinsel Towers, n°29
+
+	01. Elegy RH8
+	02. Elegy RH8
+	03. Elegy RH8
+	04. Elegy RH8
 	- Elegy RH8
 	6. Minivan custom
 	Minivan custom
@@ -235,7 +235,7 @@
 	10. Exemplar (aston rapide)
 
 ### Atelier de l'arène
-	1.  Sasquatch anticipation (monster truck)
+	1.  Vide
 	2.  Issi anticipation (mini)
 	3.  Dominator (mustang)
 	4.  Slamvan
@@ -244,7 +244,8 @@
 	7.  Elegy RH8
 	8.  Elegy RH8
 	9.  Elegy RH8
-	10. Vide
+	10. Sasquatch anticipation (monster truck)
+	00
 
 ### Atelier de l'arène 1er SS
 	- Elegy RH8
