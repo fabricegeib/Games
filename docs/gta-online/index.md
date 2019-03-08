@@ -72,7 +72,7 @@
     Elegy rétro custom
 	Elegy rétro custom
 
-### QG de Hawick**
+### QG de Hawick
 
 ![Picture of Tinsel Towers, n°29](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/qg-de-hawick.jpg)
 
@@ -103,6 +103,7 @@
 	- Cheburek (old school)
  
 ### Garage de fonction 1
+
 	- T20
 	- Osiris
 	- GP1
@@ -125,6 +126,7 @@
 	- n°20 - vide
 
 ### Garage de fonction 2
+
 	- Moonbeam custom
 	- Tornado custom
 	- Faction custom donnk
@@ -147,6 +149,7 @@
 	- n°20 - vide
  
 ### Garage de fonction 3
+
 	01. SC1
 	02. Brioso R/1 (mini abarth)
 	03. Autarch
@@ -186,7 +189,7 @@
 ### Entrée de service de la boîte de nuit
 	- Elegy RH8
  
- ### Garage, 2e sous-sol
+### Garage, 2e sous-sol
 
 ![Picture of Garage, 3e sous-sol](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/garage-3e-sous-sol.jpg)
 
