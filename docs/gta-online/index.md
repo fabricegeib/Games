@@ -5,56 +5,57 @@
 
 ![Picture of Eclipse, penthouse 1](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/eclipse-penthouse-1.jpg)
 
-    1.  Kamacho
-	2.  Buggy raid
-	3.  Elegy RH8
-	4.  Elegy RH8
-	5.  Felon GT (rue)
-	6.  Patriot Stretch
-    7.  Dubsta 6x6
-	8.  Vide
-	9.  Vide
+    01. Kamacho
+	02. Buggy raid
+	03. Elegy RH8
+	04. Elegy RH8
+	05. Felon GT (rue)
+	06. Patriot Stretch
+    07. Dubsta 6x6
+	08. Vide
+	09. Vide
     10. Vide
 	
 ### Weazel Plaza, n°101
 
 ![Picture of Weazel Plaza, n°101](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/weazel-plaza-101.jpg)
 
-	1.  Vigilante
-	2.  Vigilante
-	3.  Vigilante
-    4.  Vigilante
-	5.  Vigilante
-    6.  Issi anticipation
-	7.  Issi anticipation
-    8.  Issi anticipation
-	9.  Issi anticipation
+	01. Vigilante
+	02. Vigilante
+	03. Vigilante
+    04. Vigilante
+	05. Vigilante
+    06. Issi anticipation
+	07. Issi anticipation
+    08. Issi anticipation
+	09. Issi anticipation
 	10. Elegy rétro custom
 	
 ### Del Perro Heights, n°20
 
 ![Picture of Del Perro Heights, n°20](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/del-perro-heights-20.jpg)
 
-	1.  Sanctus
-	2.  Cliffhanger
-	3.  Shotaro
-	4.  Vide
-	5.  Vide
-	6.  Vide
-	7.  Vide
-	8.  Vide
-	9.  Vide
-	10. Vide
+	01. Sanctus
+	02. Cliffhanger
+	03. Shotaro
+	04. Vide
+	05. Vide
+	06. Vide
+	07. Vide
+	08. Vide
+	09. Vide
+	10. Oppressor (moto volante)
 
 ### Las lagunas Blvd, n°4
 
 ![Picture of Las lagunas Blvd, n°4](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/las-lagunas-blvd-4.jpg)
 
-	1. Kuruma (blindée)
-	- Cognoscenti (blindée)
-	- Insurgent
-	- Baller LE LWB (blindée)
-	- XLS (blindée)
+	01. Baller LE LWB (blindée)
+	02. XLS (blindée)
+	03. Vide
+	04. Kuruma (blindée)
+	05. Insurgent
+	06. Cognoscenti (blindée)
  
 ### Tinsel Towers, n°29
 
@@ -151,7 +152,7 @@
 	03. Autarch
     04. Hotring Sabre
     05. Flash GT
-	06. Deluxo
+	06. Vide
 	07. Tropos rallye
 	- Omnis
 	- GB200
@@ -166,10 +167,15 @@
 	- n°20 - vide
 	 
 ### Complex de Land Act Reservoir
+
+![Picture of Complex (1/2)](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/complex-1.jpg)
+
+![Picture of Complex (2/2)](https://raw.githubusercontent.com/fabricegeib/Games/master/img/gta/complex-2.jpg)
+
 	- APC
 	- Tampa Armée
 	- Pick-up Insurgent custom
-	- Oppressor (moto volante)
+	- Deluxo (DeLorean)
 	- Stromberg (voiture sous-marin)
 	- Nightshark (4x4)
 	- Duke O'Death
