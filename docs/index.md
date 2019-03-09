@@ -1,7 +1,7 @@
 I play on differents games :
 
 ## GTA
-[GTA Online](https://github.fabricegeib.com/games/gta-online/)
+[GTA Online](gta-online/)
 
 ## Fortnite
 [Battle Royale](https://github.fabricegeib.com/games/fortnite-battle-royale/)
